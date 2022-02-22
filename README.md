@@ -1,0 +1,1 @@
+# ConstraintProgramming-Minizinc
